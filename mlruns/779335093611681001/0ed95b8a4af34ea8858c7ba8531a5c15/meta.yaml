@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/nariman/Desktop/Car_price_dash_/mlruns/779335093611681001/0ed95b8a4af34ea8858c7ba8531a5c15/artifacts
+end_time: 1757680348080
+entry_point_name: ''
+experiment_id: '779335093611681001'
+lifecycle_stage: active
+run_id: 0ed95b8a4af34ea8858c7ba8531a5c15
+run_name: gifted-pug-182
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757680343779
+status: 3
+tags: []
+user_id: nariman

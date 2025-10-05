@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/nariman/Desktop/Car_price_dash_/mlruns/684035915967388852/9b26b1f3d8ef4d568d1c00c597ea94df/artifacts
+end_time: 1757680247145
+entry_point_name: ''
+experiment_id: '684035915967388852'
+lifecycle_stage: active
+run_id: 9b26b1f3d8ef4d568d1c00c597ea94df
+run_name: dashing-trout-896
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757680243046
+status: 3
+tags: []
+user_id: nariman

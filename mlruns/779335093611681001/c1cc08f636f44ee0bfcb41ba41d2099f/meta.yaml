@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/nariman/Desktop/Car_price_dash_/mlruns/779335093611681001/c1cc08f636f44ee0bfcb41ba41d2099f/artifacts
+end_time: 1757680316077
+entry_point_name: ''
+experiment_id: '779335093611681001'
+lifecycle_stage: active
+run_id: c1cc08f636f44ee0bfcb41ba41d2099f
+run_name: omniscient-ant-60
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757680313030
+status: 3
+tags: []
+user_id: nariman

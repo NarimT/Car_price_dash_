@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/nariman/Desktop/Car_price_dash_/mlruns/773649444648395746/f1a90e2cacf34c858ac57b673e374e3e/artifacts
+end_time: 1757731554725
+entry_point_name: ''
+experiment_id: '773649444648395746'
+lifecycle_stage: active
+run_id: f1a90e2cacf34c858ac57b673e374e3e
+run_name: Normal-mini-lr0.01-l0-initzeros-momTrue
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757731548592
+status: 3
+tags: []
+user_id: nariman

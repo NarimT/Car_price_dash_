@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/nariman/Desktop/Car_price_dash_/mlruns/684035915967388852/7551d7a447b54afe8c4dd7c6ab48fb84/artifacts
+end_time: 1757680257849
+entry_point_name: ''
+experiment_id: '684035915967388852'
+lifecycle_stage: active
+run_id: 7551d7a447b54afe8c4dd7c6ab48fb84
+run_name: sincere-carp-74
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757680253544
+status: 3
+tags: []
+user_id: nariman

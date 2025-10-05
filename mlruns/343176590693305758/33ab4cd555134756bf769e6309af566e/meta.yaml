@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/nariman/Desktop/Car_price_dash_/mlruns/343176590693305758/33ab4cd555134756bf769e6309af566e/artifacts
+end_time: 1757708111669
+entry_point_name: ''
+experiment_id: '343176590693305758'
+lifecycle_stage: active
+run_id: 33ab4cd555134756bf769e6309af566e
+run_name: Normal-batch-lr0.001-xavier-momTrue
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757708109212
+status: 3
+tags: []
+user_id: nariman

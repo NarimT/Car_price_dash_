@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/nariman/Desktop/Car_price_dash_/mlruns/779335093611681001/b2e37d215c1b4f1bb22854fd4c7b0561/artifacts
+end_time: 1757680289118
+entry_point_name: ''
+experiment_id: '779335093611681001'
+lifecycle_stage: active
+run_id: b2e37d215c1b4f1bb22854fd4c7b0561
+run_name: rebellious-boar-370
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757680284133
+status: 3
+tags: []
+user_id: nariman

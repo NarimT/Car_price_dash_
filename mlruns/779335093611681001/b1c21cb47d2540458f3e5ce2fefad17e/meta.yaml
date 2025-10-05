@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/nariman/Desktop/Car_price_dash_/mlruns/779335093611681001/b1c21cb47d2540458f3e5ce2fefad17e/artifacts
+end_time: 1757680304665
+entry_point_name: ''
+experiment_id: '779335093611681001'
+lifecycle_stage: active
+run_id: b1c21cb47d2540458f3e5ce2fefad17e
+run_name: bustling-cow-431
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757680301563
+status: 3
+tags: []
+user_id: nariman

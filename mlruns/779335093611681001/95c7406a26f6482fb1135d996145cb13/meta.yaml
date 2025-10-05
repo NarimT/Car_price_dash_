@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/nariman/Desktop/Car_price_dash_/mlruns/779335093611681001/95c7406a26f6482fb1135d996145cb13/artifacts
+end_time: 1757680349918
+entry_point_name: ''
+experiment_id: '779335093611681001'
+lifecycle_stage: active
+run_id: 95c7406a26f6482fb1135d996145cb13
+run_name: big-shoat-631
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757680348083
+status: 3
+tags: []
+user_id: nariman

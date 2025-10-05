@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/nariman/Desktop/Car_price_dash_/mlruns/773649444648395746/0f3bd18406d94450b0f8b43e3967e9c7/artifacts
+end_time: 1759595462473
+entry_point_name: ''
+experiment_id: '773649444648395746'
+lifecycle_stage: active
+run_id: 0f3bd18406d94450b0f8b43e3967e9c7
+run_name: Polynomial-Normal-lr0.001
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759595462462
+status: 4
+tags: []
+user_id: nariman

@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/nariman/Desktop/Car_price_dash_/mlruns/684035915967388852/23ac72f26e2a4e6cb82f73b15c8ba500/artifacts
+end_time: 1757680265730
+entry_point_name: ''
+experiment_id: '684035915967388852'
+lifecycle_stage: active
+run_id: 23ac72f26e2a4e6cb82f73b15c8ba500
+run_name: bright-eel-89
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757680261756
+status: 3
+tags: []
+user_id: nariman

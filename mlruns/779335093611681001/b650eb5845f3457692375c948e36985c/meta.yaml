@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/nariman/Desktop/Car_price_dash_/mlruns/779335093611681001/b650eb5845f3457692375c948e36985c/artifacts
+end_time: 1757680343778
+entry_point_name: ''
+experiment_id: '779335093611681001'
+lifecycle_stage: active
+run_id: b650eb5845f3457692375c948e36985c
+run_name: welcoming-pig-881
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757680340960
+status: 3
+tags: []
+user_id: nariman

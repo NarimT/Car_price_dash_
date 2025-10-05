@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/nariman/Desktop/Car_price_dash_/mlruns/684035915967388852/2c19a50bf47e4fba8d84c0c1dc61c0aa/artifacts
+end_time: 1757680261755
+entry_point_name: ''
+experiment_id: '684035915967388852'
+lifecycle_stage: active
+run_id: 2c19a50bf47e4fba8d84c0c1dc61c0aa
+run_name: unruly-mare-361
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757680257854
+status: 3
+tags: []
+user_id: nariman

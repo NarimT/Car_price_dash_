@@ -7,3 +7,5 @@ flask==3.0.3
 dash==2.18.1
 dash-bootstrap-components==1.4.2
 joblib==1.3.2
+mlflow
+time

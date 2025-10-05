@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/nariman/Desktop/Car_price_dash_/mlruns/462707881346106084/6001224db6ca4065b2ee2eece7104472/artifacts
+end_time: 1757680877178
+entry_point_name: ''
+experiment_id: '462707881346106084'
+lifecycle_stage: active
+run_id: 6001224db6ca4065b2ee2eece7104472
+run_name: Ridge-batch-lr0.001-xavier-momTrue
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757680873831
+status: 3
+tags: []
+user_id: nariman

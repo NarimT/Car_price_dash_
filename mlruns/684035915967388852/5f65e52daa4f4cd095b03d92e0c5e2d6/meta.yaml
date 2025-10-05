@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/nariman/Desktop/Car_price_dash_/mlruns/684035915967388852/5f65e52daa4f4cd095b03d92e0c5e2d6/artifacts
+end_time: 1757680237308
+entry_point_name: ''
+experiment_id: '684035915967388852'
+lifecycle_stage: active
+run_id: 5f65e52daa4f4cd095b03d92e0c5e2d6
+run_name: magnificent-frog-176
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757680233211
+status: 3
+tags: []
+user_id: nariman

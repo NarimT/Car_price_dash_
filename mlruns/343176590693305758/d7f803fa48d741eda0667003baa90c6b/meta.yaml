@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/nariman/Desktop/Car_price_dash_/mlruns/343176590693305758/d7f803fa48d741eda0667003baa90c6b/artifacts
+end_time: 1757709822691
+entry_point_name: ''
+experiment_id: '343176590693305758'
+lifecycle_stage: active
+run_id: d7f803fa48d741eda0667003baa90c6b
+run_name: Ridge-stochastic-lr0.0001-zeros-momTrue
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757709787052
+status: 3
+tags: []
+user_id: nariman

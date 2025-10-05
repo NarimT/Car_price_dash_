@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/nariman/Desktop/Car_price_dash_/mlruns/779335093611681001/a816619220fe42fb9bebf8be07ab3ec1/artifacts
+end_time: 1757680364349
+entry_point_name: ''
+experiment_id: '779335093611681001'
+lifecycle_stage: active
+run_id: a816619220fe42fb9bebf8be07ab3ec1
+run_name: righteous-mouse-242
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757680360034
+status: 3
+tags: []
+user_id: nariman

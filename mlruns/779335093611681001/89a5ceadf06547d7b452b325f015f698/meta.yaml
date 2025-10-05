@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/nariman/Desktop/Car_price_dash_/mlruns/779335093611681001/89a5ceadf06547d7b452b325f015f698/artifacts
+end_time: 1757680340959
+entry_point_name: ''
+experiment_id: '779335093611681001'
+lifecycle_stage: active
+run_id: 89a5ceadf06547d7b452b325f015f698
+run_name: clean-deer-971
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757680336753
+status: 3
+tags: []
+user_id: nariman

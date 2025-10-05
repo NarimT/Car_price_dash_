@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/nariman/Desktop/Car_price_dash_/mlruns/779335093611681001/905f1932f35a477ea94a041dbff5eb76/artifacts
+end_time: 1757680378405
+entry_point_name: ''
+experiment_id: '779335093611681001'
+lifecycle_stage: active
+run_id: 905f1932f35a477ea94a041dbff5eb76
+run_name: handsome-quail-955
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757680375295
+status: 3
+tags: []
+user_id: nariman

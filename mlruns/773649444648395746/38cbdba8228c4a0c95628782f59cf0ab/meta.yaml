@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/nariman/Desktop/Car_price_dash_/mlruns/773649444648395746/38cbdba8228c4a0c95628782f59cf0ab/artifacts
+end_time: 1757740022950
+entry_point_name: ''
+experiment_id: '773649444648395746'
+lifecycle_stage: active
+run_id: 38cbdba8228c4a0c95628782f59cf0ab
+run_name: Ridge-batch-lr0.001-l1.0-initzeros-momTrue
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757740019930
+status: 3
+tags: []
+user_id: nariman

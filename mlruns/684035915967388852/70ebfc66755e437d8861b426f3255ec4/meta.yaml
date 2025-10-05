@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/nariman/Desktop/Car_price_dash_/mlruns/684035915967388852/70ebfc66755e437d8861b426f3255ec4/artifacts
+end_time: 1757680243045
+entry_point_name: ''
+experiment_id: '684035915967388852'
+lifecycle_stage: active
+run_id: 70ebfc66755e437d8861b426f3255ec4
+run_name: rogue-ape-613
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757680240076
+status: 3
+tags: []
+user_id: nariman

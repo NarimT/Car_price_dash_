@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/nariman/Desktop/Car_price_dash_/mlruns/779335093611681001/4cca8454b86249fcb669735b6ecbb1a5/artifacts
+end_time: 1757680333533
+entry_point_name: ''
+experiment_id: '779335093611681001'
+lifecycle_stage: active
+run_id: 4cca8454b86249fcb669735b6ecbb1a5
+run_name: gifted-grub-9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757680330326
+status: 3
+tags: []
+user_id: nariman

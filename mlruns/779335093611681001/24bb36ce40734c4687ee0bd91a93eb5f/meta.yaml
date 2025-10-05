@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/nariman/Desktop/Car_price_dash_/mlruns/779335093611681001/24bb36ce40734c4687ee0bd91a93eb5f/artifacts
+end_time: 1757680357083
+entry_point_name: ''
+experiment_id: '779335093611681001'
+lifecycle_stage: active
+run_id: 24bb36ce40734c4687ee0bd91a93eb5f
+run_name: marvelous-jay-317
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757680353653
+status: 3
+tags: []
+user_id: nariman

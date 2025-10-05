@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/nariman/Desktop/Car_price_dash_/mlruns/684035915967388852/ec4c1be41c9443ae9dd680b137f8447a/artifacts
+end_time: 1757680267986
+entry_point_name: ''
+experiment_id: '684035915967388852'
+lifecycle_stage: active
+run_id: ec4c1be41c9443ae9dd680b137f8447a
+run_name: loud-skink-368
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757680265731
+status: 4
+tags: []
+user_id: nariman

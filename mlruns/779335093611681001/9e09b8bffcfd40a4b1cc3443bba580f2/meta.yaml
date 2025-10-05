@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/nariman/Desktop/Car_price_dash_/mlruns/779335093611681001/9e09b8bffcfd40a4b1cc3443bba580f2/artifacts
+end_time: 1757680375293
+entry_point_name: ''
+experiment_id: '779335093611681001'
+lifecycle_stage: active
+run_id: 9e09b8bffcfd40a4b1cc3443bba580f2
+run_name: funny-cow-918
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757680371774
+status: 3
+tags: []
+user_id: nariman

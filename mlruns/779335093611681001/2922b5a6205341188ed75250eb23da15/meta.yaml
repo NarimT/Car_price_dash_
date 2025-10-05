@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/nariman/Desktop/Car_price_dash_/mlruns/779335093611681001/2922b5a6205341188ed75250eb23da15/artifacts
+end_time: 1757680275899
+entry_point_name: ''
+experiment_id: '779335093611681001'
+lifecycle_stage: active
+run_id: 2922b5a6205341188ed75250eb23da15
+run_name: welcoming-tern-454
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757680272218
+status: 3
+tags: []
+user_id: nariman

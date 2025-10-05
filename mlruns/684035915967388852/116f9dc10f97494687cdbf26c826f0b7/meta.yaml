@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/nariman/Desktop/Car_price_dash_/mlruns/684035915967388852/116f9dc10f97494687cdbf26c826f0b7/artifacts
+end_time: 1757680253543
+entry_point_name: ''
+experiment_id: '684035915967388852'
+lifecycle_stage: active
+run_id: 116f9dc10f97494687cdbf26c826f0b7
+run_name: trusting-lynx-901
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757680251036
+status: 3
+tags: []
+user_id: nariman

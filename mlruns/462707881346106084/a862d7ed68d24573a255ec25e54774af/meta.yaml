@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/nariman/Desktop/Car_price_dash_/mlruns/462707881346106084/a862d7ed68d24573a255ec25e54774af/artifacts
+end_time: 1757670394893
+entry_point_name: ''
+experiment_id: '462707881346106084'
+lifecycle_stage: active
+run_id: a862d7ed68d24573a255ec25e54774af
+run_name: Lasso-mini-lr0.01-xavier-momTrue
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757670292246
+status: 3
+tags: []
+user_id: nariman

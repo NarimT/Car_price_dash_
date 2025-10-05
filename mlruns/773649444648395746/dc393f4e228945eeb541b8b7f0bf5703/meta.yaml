@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/nariman/Desktop/Car_price_dash_/mlruns/773649444648395746/dc393f4e228945eeb541b8b7f0bf5703/artifacts
+end_time: 1757733158627
+entry_point_name: ''
+experiment_id: '773649444648395746'
+lifecycle_stage: active
+run_id: dc393f4e228945eeb541b8b7f0bf5703
+run_name: Lasso-batch-lr0.01-l0.01-initzeros-momTrue
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757733155916
+status: 3
+tags: []
+user_id: nariman

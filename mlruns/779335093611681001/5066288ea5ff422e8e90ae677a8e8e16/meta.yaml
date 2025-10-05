@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/nariman/Desktop/Car_price_dash_/mlruns/779335093611681001/5066288ea5ff422e8e90ae677a8e8e16/artifacts
+end_time: 1757680371772
+entry_point_name: ''
+experiment_id: '779335093611681001'
+lifecycle_stage: active
+run_id: 5066288ea5ff422e8e90ae677a8e8e16
+run_name: awesome-crane-169
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757680368979
+status: 3
+tags: []
+user_id: nariman

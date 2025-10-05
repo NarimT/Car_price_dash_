@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/nariman/Desktop/Car_price_dash_/mlruns/773649444648395746/ee91bd316b804d13a28b14f201d3c10b/artifacts
+end_time: 1757740131847
+entry_point_name: ''
+experiment_id: '773649444648395746'
+lifecycle_stage: active
+run_id: ee91bd316b804d13a28b14f201d3c10b
+run_name: Ridge-mini-lr0.001-l1.0-initzeros-momFalse
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757740131169
+status: 3
+tags: []
+user_id: nariman

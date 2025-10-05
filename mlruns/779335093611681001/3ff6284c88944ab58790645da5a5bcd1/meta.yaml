@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/nariman/Desktop/Car_price_dash_/mlruns/779335093611681001/3ff6284c88944ab58790645da5a5bcd1/artifacts
+end_time: 1757680368062
+entry_point_name: ''
+experiment_id: '779335093611681001'
+lifecycle_stage: active
+run_id: 3ff6284c88944ab58790645da5a5bcd1
+run_name: capable-deer-649
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757680364351
+status: 3
+tags: []
+user_id: nariman

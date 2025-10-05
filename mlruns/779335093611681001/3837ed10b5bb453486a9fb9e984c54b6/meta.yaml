@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/nariman/Desktop/Car_price_dash_/mlruns/779335093611681001/3837ed10b5bb453486a9fb9e984c54b6/artifacts
+end_time: 1757680301561
+entry_point_name: ''
+experiment_id: '779335093611681001'
+lifecycle_stage: active
+run_id: 3837ed10b5bb453486a9fb9e984c54b6
+run_name: bustling-quail-158
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757680297837
+status: 3
+tags: []
+user_id: nariman

@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/nariman/Desktop/Car_price_dash_/mlruns/779335093611681001/7200c349085f4c528a811f9ff27f4beb/artifacts
+end_time: 1757680328968
+entry_point_name: ''
+experiment_id: '779335093611681001'
+lifecycle_stage: active
+run_id: 7200c349085f4c528a811f9ff27f4beb
+run_name: capable-panda-221
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757680325904
+status: 3
+tags: []
+user_id: nariman

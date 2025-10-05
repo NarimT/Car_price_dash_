@@ -1,16 +1,14 @@
+version: '3'
+
 services:
-  dash:
+  web:
     build:
       context: .
-      dockerfile: Dockerfile
-    container_name: dash_app
-    ports:
-      - "8050:8050"  # Maps container port 8050 to localhost
-    volumes:
-      - ./code:/root/app/code       # Live reload for code
-      - ./models:/root/app/models   # Keep models in sync
-      - ./data:/root/app/data       # Keep data in sync
+      dockerfile: dockerfile
+    image: narimt/car_price_dash:a2.6
     environment:
       - HOST=0.0.0.0
-      - PORT=8050
-    command: python3 code/app.py
+      - PORT=80
+    ports:
+      - 4000:80
+    command: python code/app.py
